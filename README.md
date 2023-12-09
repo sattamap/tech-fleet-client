@@ -2,7 +2,7 @@
 
 ### i. Project Name and Website Type
 **Project Name:** TechFleet  
-**Website Type:** An Innovative Technology and Electronics E-commerce Platform
+**Website Type:** An Innovative Technology and Electronics E-commerce Platform <br>
 **Duration:** 4-5 days
 
 ### 2. Key Features
