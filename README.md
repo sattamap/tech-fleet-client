@@ -1,4 +1,4 @@
-# JTechnology and Electronics E-commerce Platform (TechFleet) 
+# Technology and Electronics E-commerce Platform (TechFleet) 
 
 ### i. Project Name and Website Type
 **Project Name:** TechFleet  
